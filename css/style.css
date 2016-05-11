@@ -71,6 +71,10 @@ h4 {
     margin-top: 50px;
 }
 
+h5 {
+    text-align: center;
+}
+
 p {
     margin: .5em 0 1em 0;
 }
@@ -107,13 +111,22 @@ a.btn:hover {
     text-align: center;
 }
 
+.icons li {
+    display: inline;
+    margin: 10px;
+}
 
 .social-icons {
+    text-align: center;
     padding-right: 40px;
 }
 
 .icons {
     padding-left: 0;
+}
+
+.copy {
+    text-align: center;
 }
 
 
