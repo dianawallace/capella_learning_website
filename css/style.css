@@ -57,6 +57,7 @@ h2 {
     line-height: 1.1em;
     text-align: center;
     margin-top: 50px;
+    margin-left: 10px;
 }
 
 h3 {
@@ -81,6 +82,8 @@ h5 {
 p {
     margin: .5em 0 1em 0;
     text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 a, a:visited {
@@ -185,9 +188,43 @@ html { overflow-y: scroll; }
 }
 
 @media (min-width: 700px) {
- 
+
+h1 {
+    font-size: 3.0em;
+    font-weight: 100;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+    
+}
+
+a.btn {
+    font-size: 1.5em;
+    margin-right: 20px;
+}
+
 }
 
 @media (min-width: 1024px) {  
+    
+h1 {
+    font-size: 3.5em;
+    font-weight: 100;
+}
+
+h4 {
+    font-size: 20px;
+}
+    
+p {
+    font-size: 20px;
+}
 
 }
