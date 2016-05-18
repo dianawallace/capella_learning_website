@@ -183,3 +183,11 @@ html { overflow-y: scroll; }
   width: 320px;
   height: 360px;
 }
+
+@media (min-width: 700px) {
+ 
+}
+
+@media (min-width: 1024px) {  
+
+}
