@@ -116,6 +116,12 @@ a.btn:hover {
     text-align: center;
 }
 
+.masonry {
+    background-color: #e3e3e3;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
 .grid-item { 
     width: 200px; 
 }
