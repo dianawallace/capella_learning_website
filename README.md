@@ -1,2 +1,2 @@
 # Diana Wallace Portfolio
-Portfolio Website
+Portfolio website
